@@ -1,4 +1,4 @@
-# Titanic_EDA
+# Titanic 생존자 데이터 심층 분석
 <div align=center>
 <img src= "https://user-images.githubusercontent.com/76522430/209479235-b689b2ab-9b1b-4be7-94a6-1fcb5bd89517.jpg" width=50% height=50%>
 </div>
